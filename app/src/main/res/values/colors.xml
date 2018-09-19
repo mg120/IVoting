@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3cb1e9</color>
+    <color name="color_app_bar">#3181D3</color>
+    <color name="colorPrimaryDark">#2266AB</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_img_bg">#2266AB</color>
+    <color name="Wheat">#5dff40</color>
+    <color name="back">#c10f97</color>
+    <color name="Wheat2">#ffcc40</color>
+    <color name="back2">#075056</color>
+    <color name="white">#ffffff</color>
+    <color name="prog1">#1067AA</color>
+    <color name="prog2">#F1B310</color>
+    <color name="prog3">#01A793</color>
+    <color name="prog4">#622467</color>
+    <color name="prog5">#B2045B</color>
+    <color name="prog6">#ED6B20</color>
+    <color name="prog7">#7AAC4B</color>
+    <color name="prog8">#9B26AF</color>
+    <color name="prog9">#68EFAD</color>
+    <color name="prog10">#FF7043</color>
+    <color name="prog11">#795548</color>
+    <color name="prog12">#C6FF00</color>
+    <color name="prog13">#FF4081</color>
+    <color name="prog14">#E040FB</color>
+    <color name="prog15">#f9254c</color>
+
+
+    // screens background colors...
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    // Dots colors ...
+    <color name="active_dots">#fffafa</color>
+    <color name="inactive_dots">#838387</color>
+
+</resources>

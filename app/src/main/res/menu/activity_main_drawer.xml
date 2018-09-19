@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Profile" />
+        <item
+            android:id="@+id/gifts"
+            android:icon="@drawable/ic_card_giftcard_black_24dp"
+            android:title="Gift" />
+
+        <item
+            android:id="@+id/questions"
+            android:icon="@drawable/ic_edit_black_24dp"
+            android:title="Questions" />
+
+        <item
+            android:id="@+id/share_app"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="Share App" />
+
+        <item
+            android:id="@+id/rate_app"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="Rate App" />
+
+        <item
+            android:id="@+id/contact_us"
+            android:icon="@drawable/contact"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/about_app"
+            android:icon="@drawable/about"
+            android:title="About" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+    </group>
+
+</menu>

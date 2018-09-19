@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Voting</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="type">Type</string>
+
+    <string-array name="type">
+        <item>Type</item>
+        <item>Free Membership</item>
+        <item>Premium Membership</item>
+    </string-array>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+
+    <string name="slide_1_title">Voting!</string>
+    <string name="slide_1_desc">The easiest way to vote for your favourite category!</string>
+
+    <string name="slide_2_title">Category Items</string>
+    <string name="slide_2_desc">vote for your favorite items!</string>
+
+    <string name="slide_3_title">Top Rate</string>
+    <string name="slide_3_desc">Know top rated items in each category easy!</string>
+
+</resources>
